@@ -1,8 +1,9 @@
 # Tsinghua-University-campus-network-connector
 ## 1 介绍
-Ubuntu，Firefox浏览器，使用selenium的方式自动填充用户名和密码登陆清华大学校园网。
+Ubuntu，Firefox浏览器，有线网连接（无线网没有测试过），使用selenium自动填充用户名和密码登陆清华大学校园网。
 
 ## 2 使用方法
+0. 连接清华校园网；
 1. 请到这里下载[浏览器驱动](https://github.com/mozilla/geckodriver/releases)；
 2. 下载完成后，将驱动移动至`/usr/bin/`目录下
 ```
